@@ -2,7 +2,14 @@
 robofriends is a small web app that allows you to search for robots made using react.
 
 ## Screenshots
-[Demo video record](demo.gif)
+![Demo video record](demo.gif)
+
+## Tools & Languages
+  - [tachyons](https://tachyons.io/) library used for design
+  - Generated robots api [robohash](https://robohash.org/)
+  - Font used in title [SEGA](https://www.cufonfonts.com/font/sega-logo-font)
+  - [ReactJs](https://reactjs.org/) javascript framework used
+  - [VSCode](https://code.visualstudio.com/) as a text editor
 
 ## Usage
 1. Clone this repo
