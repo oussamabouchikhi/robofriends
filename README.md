@@ -1,6 +1,9 @@
 # robofriends
 robofriends is a small web app that allows you to search for robots made using react.
 
+## Screenshots
+[Demo video record](demo.gif)
+
 ## Usage
 1. Clone this repo
 2. Run ```npm install```
