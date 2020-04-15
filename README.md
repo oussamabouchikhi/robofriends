@@ -16,10 +16,13 @@ robofriends is a small app that allows you to search for robots made using react
 # 1. Clone this repo
 git clone https://github.com/oussamabouchikhi/robofriends.git
 
-# 2. Install dependencies
+# 2. Change directory to it
+cd robofriends
+
+# 3. Install dependencies
 npm install
 
-# 3. Run app
+# 4. Run app
 npm start
 ```
 
