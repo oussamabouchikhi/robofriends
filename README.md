@@ -1,8 +1,6 @@
 # robofriends
 robofriends is a small app that allows you to search for robots made using react.
 
-## Screenshots
-![Demo video record](demo.gif)
 
 ## Tools & Languages
   - [tachyons](https://tachyons.io/) library used for design
@@ -15,6 +13,8 @@ robofriends is a small app that allows you to search for robots made using react
 ```bash
 # 1. Clone this repo
 git clone https://github.com/oussamabouchikhi/robofriends.git
+# Or using ssh
+git clone git@github.com:oussamabouchikhi/robofriends.git
 
 # 2. Change directory to it
 cd robofriends
