@@ -21,7 +21,7 @@ const mapDispatchToProps = () => (dispatch) => {
 	return {
 		onSearchChange: (event) => dispatch(setSearchField(event.target.value)),
 		onRequestRobots: () => dispatch(requestRobots())
-	}	
+	}
 }
 
 class App extends Component {
@@ -37,7 +37,7 @@ class App extends Component {
 			return robot.name.toLowerCase().includes(searchField.toLowerCase());
 		})
 
-		return isPending ?
+		return !robots.length ?
 			<h1>Loading</h1> :
 			(
 				<div className='tc'>
